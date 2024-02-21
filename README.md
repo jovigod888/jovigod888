@@ -19,10 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <img src="https://outlook.live.com/mail/0/deeplink/compose?popoutv2=1&version=20240209002.12" height="35" alt="microsoft-outlook logo"  />
+  <img src="https://www.instagram.com/jvitor_fxpr/" height="35" alt="instagram logo"  />
+  <img src="https://twitter.com/Jvitor_fxprr" height="35" alt="twitter logo"  />
 </div>
 
 ###
