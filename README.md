@@ -1,33 +1,56 @@
-<h1 align="left">hi👋 my name is João Vitor I'am  fullstack developer</h1>
+<h3 align="left">Hello 👋! My name is João Vitor Moreira and I'm Brazilian but I'm also a fullstack dev</h3>
 
 ###
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true" />
+</picture>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="50" alt="csharp logo"  />
 </div>
 
 ###
 
+###
+
+<br clear="both">
+
 <div align="left">
-  <img src="https://outlook.live.com/mail/0/deeplink/compose?popoutv2=1&version=20240209002.12" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://www.instagram.com/jvitor_fxpr/" height="35" alt="instagram logo"  />
-  <img src="https://twitter.com/Jvitor_fxprr" height="35" alt="twitter logo"  />
+  <a href="mailto:joaovitormoreira5@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://discord.com/invite/B2WcSCyM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/jvitor_fxpr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white%20&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/Jvitor_fxprr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://i0.wp.com/media3.giphy.com/media/Z8pzh8afGbZle/giphy.gif"  />
+  <img height="200" src="https://www.icegif.com/wp-content/uploads/ghost-icegif.gif"  />
 </div>
 
 ###
