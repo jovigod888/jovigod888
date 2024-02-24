@@ -2,17 +2,7 @@
 
 ###
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme="midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovigod888&showicons=true&theme=midnight-purple)<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jovigod888&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
@@ -49,6 +39,6 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovigod888&layout=compact)
+
 
 ###
