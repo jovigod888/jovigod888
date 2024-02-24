@@ -4,7 +4,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme="midnight-purple"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -49,8 +49,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://www.icegif.com/wp-content/uploads/ghost-icegif.gif"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovigod888&layout=compact)
 
 ###
