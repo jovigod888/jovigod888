@@ -40,7 +40,6 @@
 
 ###
 
-![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jovigod888&repo=jovigod888&theme=midnight-purple)](https://github.com/jovigod888/jovigod888)
+![snake gif](https://github.com/jovigod888/jovigod888/blob/output/github-contribution-grid-snake.svg)
 
 ###
