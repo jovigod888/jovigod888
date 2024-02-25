@@ -40,6 +40,5 @@
 
 ###
 
-![snake gif](https://github.com/jovigod888/jovigod888/blob/output/github-contribution-grid-snake.svg)
 
 ###
