@@ -1,4 +1,4 @@
-<h3 align="left">Hello 👋! My name is João Vitor Moreira and I'm Brazilian but I'm also a fullstack dev</h3>
+<h1 align="left">Hello 👋! My name is João Vitor Moreira and I'm Brazilian but I'm also a fullstack dev</h1>
 
 ###
 
