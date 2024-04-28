@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=5e0d5e&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+joão;Be+Welcome!)](https://git.io/typing-svg)
 
-<h1 align="left">Hello 😮‍💨! My name is João Vitor Moreira and I'm Brazilian but I'm also a fullstack dev</h1>
+<h1 align="left">Hello 😮‍💨! My name is João Vitor and I'm Brazilian but I'm also a fullstack dev</h1>
 
 ###
 <p align="left">I'm a systems development analysis student and I love spending a few hours studying, but I also like taking time to play video games or watch movies/series or go out to the basketball court to play basketball with friends. I love technology and I like to take advantage of everything it can offer us, professionally I want to become a fully versatile full stack developer in any type of projects that arise.</p>
