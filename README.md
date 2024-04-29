@@ -14,7 +14,7 @@
 
 ###
 
-   ### 🖥️Technologies
+🖥️Technologies
 <div align="center">
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -48,26 +48,27 @@
 
 ###
 
+
+
 <br clear="both">
-
-
-## 📲Contact
-
-
+📲 contacts
 <div align="center">
   <a href="mailto:joaovitormoreira5@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" height="35" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="50" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://discord.com/invite/B2WcSCyM" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo"  />
+  <a href="https://discord.com/invite/B2WcSCyM&quot;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/jvitor_fxpr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="microsoft-outlook logo" height="35" alt="instagram logo"  />
+  <a href="https://twitter.com/Jvitor_fxprr&quot;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
   </a>
-  <a href="https://twitter.com/Jvitor_fxprr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="40" alt="twitter logo" />
+  <a href="https://www.instagram.com/jvitor_fxpr/&quot;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
 
 ###
 
