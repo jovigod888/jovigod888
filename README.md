@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e0d5e&hdeight=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=5e0d5e&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+JV;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=5e0d5e&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+JOÃO;Be+Welcome!)](https://git.io/typing-svg)
 
 <h1 align="left">Hello 😯💨! My name is João Vitor and I'm Brazilian but I'm also a fullstack dev</h1>
 
