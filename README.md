@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 — transforming coffee into functional code ever since<br><br>👨‍💻​ I'm currently working on Mercado Libre<br><br>🎯 Goals: Contribute to impactful Open Source projects and scale high-performance systems<br><br>🎲 Fun fact: I don't always test my code, but when I do, I do it directly in production. (Just kidding... or am I?) 🤠</p>
+<p align="left">✨ Creating bugs since 2021 — transforming coffee into functional code ever since<br><br>👨‍💻​ I'm currently working on Mercado Libre<br><br>🎯 Goals: Contribute to impactful Open Source projects and scale high-performance systems<br><br>🎲 Fun fact: I like to program while drinking Monster energy drinks; my productivity increases a lot.) 🤠</p>
 
 ###
 
