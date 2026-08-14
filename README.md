@@ -45,17 +45,15 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-<br />
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovigod888&layout=compact&theme=dracula&langs_count=6" height="160" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" height="180" />
+  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" height="180" />
 </div>
+
+###
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/snake-output/snake.svg" alt="Snake animation" />
