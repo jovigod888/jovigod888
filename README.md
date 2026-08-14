@@ -47,9 +47,12 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" height="180" />
-  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" height="180" />
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1&custom_title=jovigod888%20's%20stats" height="180" alt="stats graph"  />
+  
+  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2&custom_title=jovigod888" height="150" alt="languages graph"  />
 </div>
 
 ###
