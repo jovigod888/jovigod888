@@ -19,13 +19,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Gerar arquivos da cobrinha
+      - name: Gerar arquivos da cobrinha com Fundo Branco
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            # Força o fundo branco usando a paleta clara padrão do GitHub
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-light
 
       - name: Deploy para branch snake-output
         run: |
@@ -36,5 +37,5 @@ jobs:
           cp dist/snake.svg .
           cp dist/snake-dark.svg .
           git add snake.svg snake-dark.svg
-          git commit -m "update snake animation"
+          git commit -m "update snake animation with white background"
           git push origin snake-output --force
