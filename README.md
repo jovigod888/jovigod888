@@ -53,6 +53,11 @@
 <br />
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovigod888&layout=compact&theme=dracula&langs_count=6" height="160" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
