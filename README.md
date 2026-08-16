@@ -2,16 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header" />
 </div>
 
-
-<div align="center">
-
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jovigod888&show_icons=true&theme=prussian&include_all_commits=true"/>
-
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jovigod888&layout=compact&langs_count=8&theme=prussian"/>
-
-</div>
-
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <h2 align="left">My name is João Vitor and I'm a Dev Fullstack, from Brazil</h2>
@@ -47,10 +37,13 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQweGEzc3hyaGJpOXh2bzRvam9meHl4OXc4NDlybmZteW45dHQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SslCqqiLlToPgcOlzj/giphy.gif" alt="Coding GIF" />
 </div>
 
+<div align="center">
 
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jovigod888&show_icons=true&theme=prussian&include_all_commits=true"/>
 
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jovigod888&layout=compact&langs_count=8&theme=prussian"/>
 
-
+</div>
 <img data-importer="snake" src="https://raw.githubusercontent.com/jovigod888/jovigod888/snake-output/snake.svg" alt="Snake animation" />
 
 ###
