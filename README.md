@@ -48,11 +48,20 @@
 
 ###
 
+<div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=prussian&locale=pt-br)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovigod888&layout=compact&langs_count=8&theme=prussian"/>
+
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/snake-output/snake.svg" alt="Snake animation" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovigod888&theme=prussian"/>
+
 </div>
 
 
