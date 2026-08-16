@@ -50,6 +50,7 @@
 
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jovigod888&show_icons=true&theme=prussian&locale=pt-br)
+![Streak](https://streak-stats.demolab.com/?user=jovigod888&theme=prussian&locale=pt-br)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/snake-output/snake.svg" alt="Snake animation" />
