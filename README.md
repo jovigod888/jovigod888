@@ -44,7 +44,15 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jovigod888&layout=compact&langs_count=8&theme=prussian"/>
 
 </div>
-![Snake animation](dist/github-contribution-grid-snake.svg)
+
+<img src="dist/github-contribution-grid-snake.svg" width="600" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+  
+  <!-- Adicione o width na linha abaixo -->
+  <img alt="github snake" src="dist/github-contribution-grid-snake.svg" width="600">
+</picture>
 
 ###
 
