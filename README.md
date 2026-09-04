@@ -44,7 +44,7 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jovigod888&layout=compact&langs_count=8&theme=prussian"/>
 
 </div>
-<img data-importer="snake" src="https://raw.githubusercontent.com/jovigod888/jovigod888/snake-output/snake.svg" alt="Snake animation" />
+![Snake animation](dist/github-contribution-grid-snake.svg)
 
 ###
 
