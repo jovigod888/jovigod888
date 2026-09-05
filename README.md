@@ -91,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/jovigod888/jovigod888/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚠️ *A animação da cobra requer configuração de GitHub Actions — veja as instruções abaixo.*
+
 
 ---
 
